@@ -56,7 +56,10 @@ To predict Which predictive model or models would be best for estimating the fin
 
 3. [R Projects](https://github.com/omars1234/Siteck/tree/63e9a3d53ea7dd2b0cbf8b292604148f211bf4f6/R_Projects)
 
-   * [Insurance Data-Rmarkdown](https://github.com/omars1234/Siteck/tree/63e9a3d53ea7dd2b0cbf8b292604148f211bf4f6/R_Projects)  
+   * [Insurance_Rating_Analysis](https://github.com/omars1234/Siteck/tree/85ccdffc00df7467bc1b1a1403167afe1e867fcc/R_Projects/Insurance_Rating_Analysis)  
+
+   * [Motor_Claims Reserve](https://github.com/omars1234/Siteck/tree/85ccdffc00df7467bc1b1a1403167afe1e867fcc/R_Projects/Motor_Claims%20Reserve)
+   
 
 **------------------------------------------------------------------------------------------------------------------------------------**   
 
