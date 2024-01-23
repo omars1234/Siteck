@@ -3,7 +3,11 @@ title: "Motor insurance analysis_2"
 author: "Omar Sou'b"
 date: "`r Sys.Date()`"
 output:
- html_document 
+ html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
  
     
 ---
@@ -153,36 +157,11 @@ dataCar %>% summary() %>% kable()
 ### Numerical variables
 
 ```{r echo=FALSE, fig.width=10, message=FALSE, warning=FALSE}
-
-# Basic box plot
-(ggplot(dataCar, aes(y = veh_value)) + 
-  stat_boxplot(geom = "errorbar",
-               width = 0.15,
-               color = 1) +  # Error bar color
-  geom_boxplot(fill = 2,           # Box color
-               alpha = 0.5,        # Transparency
-               color = 1,          # Border color
-               outlier.colour = 2)+
-   ggplot(dataCar, aes(y = exposure)) + 
-  stat_boxplot(geom = "errorbar",
-               width = 0.15,
-               color = 1) +  # Error bar color
-  geom_boxplot(fill = 2,           # Box color
-               alpha = 0.5,        # Transparency
-               color = 1,          # Border color
-               outlier.colour = 2)+
-   
-   ggplot(dataCar, aes(y = claimcst0)) + 
-  stat_boxplot(geom = "errorbar",
-               width = 0.15,
-               color = 1) +  # Error bar color
-  geom_boxplot(fill = 2,           # Box color
-               alpha = 0.5,        # Transparency
-               color = 1,          # Border color
-               outlier.colour = 2)
-   
-   
-   )
+par(mfrow=c(1,3))
+boxplot(dataCar$veh_value,main="veh_vale distribution")
+boxplot(dataCar$exposure,main="exposure distribution")
+boxplot(dataCar$claimcst0,main="claimcst0 distribution")
+par(mfrow=c(1,1))
 
 ```
 
