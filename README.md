@@ -76,6 +76,15 @@ To predict Which predictive model or models would be best for estimating the fin
 
 **------------------------------------------------------------------------------------------------------------------------------------**
 
+5. [SQL_Projects](https://github.com/omars1234/Siteck/tree/50d9f5f77e66077fe315fda3c8c9c9e7541630c3/MySql_Projects)
+
+   * [home_prices](https://github.com/omars1234/Siteck/blob/50d9f5f77e66077fe315fda3c8c9c9e7541630c3/MySql_Projects/home_prices.sql)
+
+
+
+
+**------------------------------------------------------------------------------------------------------------------------------------**
+
 |Name|Email|Address|    
 |----|-----|-------|     
 |Omar Soub|omars.soub@gmail.com|Amman, Jordan|
