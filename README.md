@@ -24,10 +24,6 @@ To predict the 'LandAverageTemperature' for the years 2016, 2017, and 2018, brok
     Analysis objective :  
 To predict Which predictive model or models would be best for estimating the final 20% of data (test set
 
-    * [Motor_Insurance_Analysis](https://github.com/omars1234/Siteck/tree/63e9a3d53ea7dd2b0cbf8b292604148f211bf4f6/Pyhton_Projects/Motor_Insurance_Analysis)
-
-    Analysis objective :  
-    Analysing Motor Insurance data
 
     * [demand_sales_data_Analysis](https://github.com/omars1234/Siteck/tree/63e9a3d53ea7dd2b0cbf8b292604148f211bf4f6/Pyhton_Projects/demand_sales_data_Analysi)
 
@@ -80,7 +76,7 @@ To predict Which predictive model or models would be best for estimating the fin
 
    * [home_prices](https://github.com/omars1234/Siteck/blob/50d9f5f77e66077fe315fda3c8c9c9e7541630c3/MySql_Projects/home_prices.sql)
 
-   * [insurance data](https://github.com/omars1234/Siteck/blob/916747d43c8f8b655354f64aa3e06332387f132e/MySql_Projects/insurance_data.sql)
+
 
 
 
