@@ -15,16 +15,6 @@
 **------------------------------------------------------------------------------------------------------------------------------------**
 
 
-3. [R Projects](https://github.com/omars1234/Siteck/tree/63e9a3d53ea7dd2b0cbf8b292604148f211bf4f6/R_Projects)
-
-   * [Insurance_Rating_Analysis](https://github.com/omars1234/Siteck/tree/85ccdffc00df7467bc1b1a1403167afe1e867fcc/R_Projects/Insurance_Rating_Analysis)  
-
-   * [Motor_Claims Reserve](https://github.com/omars1234/Siteck/tree/85ccdffc00df7467bc1b1a1403167afe1e867fcc/R_Projects/Motor_Claims%20Reserve)
-   
-
-**------------------------------------------------------------------------------------------------------------------------------------**   
-
-
 4. [Tableau_Projects](https://github.com/omars1234/Siteck/tree/3f8c5e8cbf7787d1d7f095ba2b65197de044b15f/Tableau_Projects)
 
    * [AutoInsurance Analysis](https://github.com/omars1234/Siteck/blob/3f8c5e8cbf7787d1d7f095ba2b65197de044b15f/Tableau_Projects/AutoInsurance%20Analysis.md)
