@@ -19,6 +19,12 @@
 
    * [*Data_Modelling*](https://github.com/omars1234/Siteck/blob/e4f0f35f74b11f06d05c551d891e7c0a013c25ff/NoteBooks/5.Data_Modelling.ipynb)
 
+   * [*Modelling_without_HyperparamertTuning.ipynb*](https://github.com/omars1234/Siteck/blob/0cd1f3158dba7ace4ff6fead193791db30637932/NoteBooks/Modelling_without_HyperparamertTuning.ipynb)
+
+   * [*Modelling_with_HyperparamertTuning.ipynb*](https://github.com/omars1234/Siteck/blob/0cd1f3158dba7ace4ff6fead193791db30637932/NoteBooks/Modelling_with_HyperparamertTuning.ipynb)
+
+   
+
 
 
 
